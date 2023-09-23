@@ -1,12 +1,12 @@
 
   @media screen and (min-resoulution:192dpi) {
-	  div {width: 80%}
-	  .supra {width:60%;
-	  height:60%;
-	  font-size: 80%}
-	  .supra2{width:60%;
-	  height:60%;
-	  font-size: 80%}
+	  div {width: 60%}
+	  .supra {width:40%;
+	  height:40%;
+	  font-size: 60%}
+	  .supra2{width:40%;
+	  height:40%;
+	  font-size: 60%}
 	 
   }
     @media screen and (min-resoulution:978px) {
