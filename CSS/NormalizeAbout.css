@@ -1,0 +1,107 @@
+header { background-color: black;
+margin-top: 0px;
+border-style:inset;
+border-color: #00FF00;
+}
+footer { background-color: #black;
+color: #00FF00;
+}
+h1 {
+	color:#00FF00;
+}
+body { background-color: black;
+}
+.footer { border-style:outset;
+border-color:#00FF00;
+}
+a { text-decoration: none;
+}
+.box  { background-color:;
+padding: 25px;
+height:55px;
+width: 800px;
+background-color:;
+margin-left: 180px;
+animation-name: slidein;
+animation-duration:3s;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left:180px;
+    width: 100%;
+  }
+}
+.box1{ background-color: #1B1B1B;
+padding: 15px;
+float: left;
+overflow: hidden;
+border-width: 2px;
+border-style: solid;
+margin-left: 225px;
+margin-top: 4px;
+color:#00FF00;
+
+	
+}
+.box2 { background-color: #1B1B1B;
+padding: 15px;
+float: left;
+border-width: 2px;
+border-style: solid;
+margin-left: 2px;
+margin-top: 4px;
+color:#00FF00;
+
+
+}
+.box3 { background-color: #1B1B1B;
+padding: 15px;
+float: left;
+border-width: 2px;
+border-style: solid;
+margin-left: 2px;
+margin-top: 4px;
+color:#00FF00;
+}
+
+.info { margin-top: 544px;
+	padding: 1px;
+	background-color:black;
+	color:#00FF00;
+}
+p {color:#00FF00;
+}
+a { text-decoration: none;
+
+}
+
+a:visited {color:#00FF00;
+	
+}
+a:active {color:#00FF00;
+	
+}
+.aboutUs{
+	margin-top:;
+	color:#00FF00;
+}
+#clock {
+	margin-top:10px;
+	text-align:center;
+	padding:1px;
+	color:#00FF00;
+
+}
+input {
+	background-color:#1B1B1B;
+	color:#00FF00;
+}
+textarea {background-color:#1B1B1B;
+	color:#00FF00;
+
+}
